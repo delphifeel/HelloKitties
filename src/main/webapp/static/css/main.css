@@ -1,0 +1,40 @@
+* {
+    font-family: monospace !important;
+    font-size: 16pt;
+}
+
+.header-logo {
+    background-color: rgba(10, 255, 10, 0.26);
+    box-shadow: 0 0 20px green;
+    border: 3px solid rgba(10, 255, 10, 0.26);
+    border-radius: 50px;
+    width: 70%;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header-logo span {
+    margin-left: 40px;
+}
+
+.header-logo table {
+    width: 100%;
+}
+
+.header-logo img {
+    margin: 15px;
+    width: 100px;
+    height: 100px;
+}
+
+.footer {
+    background-color: rgba(10, 255, 10, 0.26);
+    box-shadow: 0 0 20px green;
+    border: 3px solid rgba(10, 255, 10, 0.26);
+    border-radius: 50px;
+    width: 70%;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
